@@ -37,6 +37,8 @@ xcuserdata/
 /log
 
 # Misc
+.env
+/server/knex/seeds/*
 /.sass-cache
 /connect.lock
 /coverage
