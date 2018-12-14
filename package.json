@@ -64,7 +64,7 @@
     "connect-redis": "^3.4.0",
     "cordova-android": "^7.0.0",
     "cordova-custom-config": "^5.0.2",
-    "cordova-ios": "^4.5.4",
+    "cordova-ios": "^4.5.5",
     "cordova-plugin-device": "^2.0.1",
     "cordova-plugin-ionic-keyboard": "^2.1.2",
     "cordova-plugin-ionic-webview": "^2.0.0",
